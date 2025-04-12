@@ -91,4 +91,3 @@ Below are screenshots of the 3D scene:
 * turbosquid.com
 * blender.org/support
 * medium.com
-* humus.name/index.php?page=Textures
