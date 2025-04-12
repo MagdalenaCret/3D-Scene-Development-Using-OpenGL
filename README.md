@@ -7,7 +7,6 @@ A 3D scene rendered with OpenGL representing a residential neighborhood in a mou
 **Course:** Graphics Processing  
 **Institution:** Technical University of Cluj-Napoca  
 **Faculty:** Faculty of Automation and Computer Science  
-**Group:** 30223  
 **Academic Year:** 2024-2025
 
 ## 🌄 Features
@@ -61,10 +60,10 @@ A 3D scene rendered with OpenGL representing a residential neighborhood in a mou
 ## 📸 Screenshots
 Below are screenshots of the 3D scene:
 
-![Scene Screenshot 1](image_scene.jpg)
-![Scene Screenshot 2](image2.png)
-![Scene Screenshot 3](image3.png)
-![Scene Screenshot 4](image4.png)
+![Scene Screenshot 1](images/image_scene.jpg)
+![Scene Screenshot 2](images/image2.png)
+![Scene Screenshot 3](images/image3.png)
+![Scene Screenshot 4](images/image4.png)
 
 
 ## 🔧 Setup & Installation
