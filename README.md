@@ -60,10 +60,17 @@ A 3D scene rendered with OpenGL representing a residential neighborhood in a mou
 ## 📸 Screenshots
 Below are screenshots of the 3D scene:
 
-![Scene Screenshot 1](images/image_scene.jpg)
-![Scene Screenshot 2](images/image2.png)
-![Scene Screenshot 3](images/image3.png)
-![Scene Screenshot 4](images/image4.png)
+
+<div align="center">
+  <p float="left">
+    <img src="images/image_scene.jpg" width="400" alt="Scene Screenshot 1"/>
+    <img src="images/image2.png" width="400" alt="Scene Screenshot 2"/>
+  </p>
+  <p float="left">
+    <img src="images/image3.png" width="400" alt="Scene Screenshot 3"/>
+    <img src="images/image4.png" width="400" alt="Scene Screenshot 4"/>
+  </p>
+</div>
 
 
 ## 🔧 Setup & Installation
